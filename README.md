@@ -23,7 +23,7 @@ The project is set up with a GitLab CI/CD pipeline that automates the process of
 
 ## Badges
 
-(https://gitlab.com/mmount/CICD-Docker-Test/badges/master/pipeline.svg?ignore_skipped=true)
+https://gitlab.com/mmount/CICD-Docker-Test/badges/master/pipeline.svg?ignore_skipped=true
 
 [![pipeline status](https://gitlab.com/mmount/CICD-Docker-Test/badges/master/pipeline.svg)](https://gitlab.com/mmount/CICD-Docker-Test/-/commits/master)
 [![coverage report](https://gitlab.com/mmount/CICD-Docker-Test/badges/master/coverage.svg)](https://gitlab.com/mmount/CICD-Docker-Test/-/commits/master)
