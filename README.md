@@ -23,7 +23,10 @@ The project is set up with a GitLab CI/CD pipeline that automates the process of
 
 ## Badges
 
-[![pipeline status](https://gitlab.com/mmount/CICD-Docker-Test/badges/master/pipeline.svg)](https://gitlab.com/mmount/CICD-Docker-Test/-/commits/master) 
+(https://gitlab.com/mmount/CICD-Docker-Test/badges/master/pipeline.svg?ignore_skipped=true)
+
+[![pipeline status](https://gitlab.com/mmount/CICD-Docker-Test/badges/master/pipeline.svg)](https://gitlab.com/mmount/CICD-Docker-Test/-/commits/master)
+
 
 ## License
 
