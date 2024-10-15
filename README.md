@@ -25,7 +25,8 @@ The project is set up with a GitLab CI/CD pipeline that automates the process of
 
 [![pipeline status](https://gitlab.com/mmount/CICD-Docker-Test/badges/master/pipeline.svg)](https://gitlab.com/mmount/CICD-Docker-Test/-/commits/master)
 
-[![coverage report](https://gitlab.com/mmount/CICD-Docker-Test/badges/master/coverage.svg)](https://gitlab.com/mmount/CICD-Docker-Test/-/commits/master)
+[![coverage status](https://gitlab.com/mmount/CICD-Docker-Test/badges/master/coverage.svg)](https://gitlab.com/mmount/CICD-Docker-Test/-/commits/master)
+)
 
 ## License
 
